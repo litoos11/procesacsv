@@ -25,5 +25,5 @@ public class Constants {
 	//test eclipse
 	public static final String PATH_LOCAL = ".//src//main//resources//temp//";
 	//en servidor
-	//public static final String PATH_LOCAL = "/tmp/prelacion_xls/";
+	//public static final String PATH_LOCAL = "/tmp/pagos/";
 }
